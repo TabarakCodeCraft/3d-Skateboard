@@ -1,0 +1,6 @@
+{
+  "repositoryName": "3dapp-by-tabarak",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./src/slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
